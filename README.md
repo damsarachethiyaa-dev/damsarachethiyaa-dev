@@ -23,8 +23,11 @@ TypeScript + Electron application. Smart multi-source video/audio downloader, mu
 ### [Daybook](https://github.com/damsarachethiyaa-dev/Daybook) — Minimalist trading journal & economic calendar
 Electron + React 18 + TypeScript + Tailwind CSS desktop app. Built-in ForexFactory economic calendar feed, atomic local JSON persistence, streak tracking, and customizable accent themes.
 
+### [ScreenToChatGPT](https://github.com/damsarachethiyaa-dev/Screen-Capture) — Multi-monitor screenshot AI assistant
+Instant multi-monitor screen capture for Windows with global hotkey `Ctrl+Alt+G`, prompt presets for order flow/code review, and automated ChatGPT desktop app injection.
+
 ### [Refora Technologies](https://github.com/refora-technologies)
-Products built under Refora — Traders Journal, Orbit Media Studio, Pulse Monitor, PixelForge, BatchFlow, AutofillPro.
+Products built under Refora — Traders Journal, Orbit Media Studio, Daybook, ScreenToChatGPT, Pulse Monitor, AutofillPro.
 
 ## Stack
 
