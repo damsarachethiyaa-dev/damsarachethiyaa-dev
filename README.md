@@ -65,6 +65,13 @@
 - Built-in prompt presets for order flow reading, key levels, and code debugging.  
 `Python` · `OpenAI GPT-4o` · `PyWin32` · `PyInstaller`
 
+#### 🛒 [POS & Inventory Management System](https://github.com/damsarachethiyaa-dev/POS-Inventory-Management-System)
+*Modern desktop Point of Sale & Inventory Management System with real-time stock deduction and dynamic JasperReports PDF generation.*  
+- High-speed retail checkout, automated invoice tracking, and customer relationship management over MySQL.  
+- Built-in JasperReports engine for instant customer summaries, sales logs, and thermal invoice PDFs.  
+- Styled with modern FlatLaf dark theme, responsive component layout, and custom UI components.  
+`Java` · `Swing` · `FlatLaf` · `JasperReports` · `MySQL` · `Apache Ant`
+
 #### 🏢 [Refora Technologies](https://github.com/refora-technologies)
 *Products built under Refora — Traders Journal, Orbit Media Studio, Daybook, ScreenToChatGPT, Pulse Monitor, AutofillPro.*
 
