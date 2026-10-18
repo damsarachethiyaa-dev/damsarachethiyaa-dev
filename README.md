@@ -17,6 +17,9 @@
   <a href="https://damsarachethiyaa-dev.github.io/github-portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/🌐_2026_Interactive_Portfolio-Launch_Live_Site-0284c7?style=for-the-badge&labelColor=0f172a" alt="Live 2026 Portfolio" />
   </a>
+  <a href="https://damsarachethiyaa-dev.github.io/github-portfolio/cv.html" target="_blank">
+    <img src="https://img.shields.io/badge/📄_2026_Executive_CV-View_%26_Download_PDF-8b5cf6?style=for-the-badge&labelColor=0f172a" alt="2026 Executive CV" />
+  </a>
   <a href="https://github.com/damsarachethiyaa-dev/Traders-Journal/releases/latest" target="_blank">
     <img src="https://img.shields.io/badge/👑_Traders_Journal-v1.0.8_Release-eab308?style=for-the-badge&labelColor=0f172a" alt="Traders Journal v1.0.8" />
   </a>
