@@ -61,42 +61,50 @@
     <text x="22" y="274" class="mono" font-size="11" fill="#64748b">Databases: SQLite · MySQL · Oracle Cloud · Firebase</text>
   </g>
 
-  <!-- Panel 2: Verified Oracle Credentials -->
+  <!-- Panel 2: Verified Oracle & Aviatrix Credentials -->
   <g transform="translate(416, 24)">
     <rect width="388" height="292" rx="14" fill="#0f172a" fill-opacity="0.7" stroke="#1e293b" stroke-width="1.5" />
-    <text x="22" y="34" class="mono" font-size="11" fill="#fbbf24" font-weight="700" letter-spacing="1">02 // VERIFIED CREDENTIALS</text>
-    <text x="22" y="58" class="sans" font-size="18" fill="#ffffff" font-weight="700">Oracle Cloud &amp; AI Certifications</text>
+    <text x="22" y="34" class="mono" font-size="11" fill="#fbbf24" font-weight="700" letter-spacing="1">02 // 5x VERIFIED CREDENTIALS (2025)</text>
+    <text x="22" y="56" class="sans" font-size="17.5" fill="#ffffff" font-weight="700">Oracle &amp; Aviatrix Certifications</text>
 
     <!-- Cert 1 -->
-    <g transform="translate(20, 74)">
-      <rect width="348" height="44" rx="8" fill="#1e293b" fill-opacity="0.6" stroke="#334155" />
-      <circle cx="20" cy="22" r="5" fill="#fbbf24" />
-      <text x="36" y="19" class="sans" font-size="12.5" fill="#ffffff" font-weight="700">Oracle APEX Cloud Developer Professional</text>
-      <text x="36" y="35" class="mono" font-size="10.5" fill="#94a3b8">Oracle Certified Professional · Oct 2025</text>
+    <g transform="translate(20, 70)">
+      <rect width="348" height="36" rx="7" fill="#1e293b" fill-opacity="0.6" stroke="#334155" />
+      <circle cx="18" cy="18" r="4.5" fill="#fbbf24" />
+      <text x="32" y="15.5" class="sans" font-size="11.5" fill="#ffffff" font-weight="700">Oracle APEX Cloud Certified Developer Pro</text>
+      <text x="32" y="29" class="mono" font-size="9.8" fill="#94a3b8">Oracle Certified Professional · 2025</text>
     </g>
 
     <!-- Cert 2 -->
-    <g transform="translate(20, 126)">
-      <rect width="348" height="44" rx="8" fill="#1e293b" fill-opacity="0.6" stroke="#334155" />
-      <circle cx="20" cy="22" r="5" fill="#c084fc" />
-      <text x="36" y="19" class="sans" font-size="12.5" fill="#ffffff" font-weight="700">OCI 2025 Certified AI Foundations Associate</text>
-      <text x="36" y="35" class="mono" font-size="10.5" fill="#94a3b8">Generative AI, LLMs &amp; Deep Learning · 2025–2027</text>
+    <g transform="translate(20, 112)">
+      <rect width="348" height="36" rx="7" fill="#1e293b" fill-opacity="0.6" stroke="#334155" />
+      <circle cx="18" cy="18" r="4.5" fill="#38bdf8" />
+      <text x="32" y="15.5" class="sans" font-size="11.5" fill="#ffffff" font-weight="700">Oracle Data Platform Foundations Associate</text>
+      <text x="32" y="29" class="mono" font-size="9.8" fill="#94a3b8">OCI Data Platform &amp; Autonomous DB · 2025</text>
     </g>
 
     <!-- Cert 3 -->
-    <g transform="translate(20, 178)">
-      <rect width="348" height="44" rx="8" fill="#1e293b" fill-opacity="0.6" stroke="#334155" />
-      <circle cx="20" cy="22" r="5" fill="#38bdf8" />
-      <text x="36" y="19" class="sans" font-size="12.5" fill="#ffffff" font-weight="700">OCI 2025 Certified Foundations Associate</text>
-      <text x="36" y="35" class="mono" font-size="10.5" fill="#94a3b8">Cloud Architecture, Security &amp; IAM · 2025–2027</text>
+    <g transform="translate(20, 154)">
+      <rect width="348" height="36" rx="7" fill="#1e293b" fill-opacity="0.6" stroke="#334155" />
+      <circle cx="18" cy="18" r="4.5" fill="#c084fc" />
+      <text x="32" y="15.5" class="sans" font-size="11.5" fill="#ffffff" font-weight="700">Oracle AI Foundations Associate</text>
+      <text x="32" y="29" class="mono" font-size="9.8" fill="#94a3b8">Generative AI, LLMs &amp; Deep Learning · 2025</text>
     </g>
 
     <!-- Cert 4 -->
-    <g transform="translate(20, 230)">
-      <rect width="348" height="44" rx="8" fill="#1e293b" fill-opacity="0.6" stroke="#334155" />
-      <circle cx="20" cy="22" r="5" fill="#34d399" />
-      <text x="36" y="19" class="sans" font-size="12.5" fill="#ffffff" font-weight="700">Oracle Java Foundations Achievement</text>
-      <text x="36" y="35" class="mono" font-size="10.5" fill="#94a3b8">Object-Oriented Engineering · Oct 2025</text>
+    <g transform="translate(20, 196)">
+      <rect width="348" height="36" rx="7" fill="#1e293b" fill-opacity="0.6" stroke="#334155" />
+      <circle cx="18" cy="18" r="4.5" fill="#34d399" />
+      <text x="32" y="15.5" class="sans" font-size="11.5" fill="#ffffff" font-weight="700">Oracle OCI Foundations Associate</text>
+      <text x="32" y="29" class="mono" font-size="9.8" fill="#94a3b8">Cloud Architecture, Security &amp; IAM · 2025</text>
+    </g>
+
+    <!-- Cert 5 -->
+    <g transform="translate(20, 238)">
+      <rect width="348" height="36" rx="7" fill="#1e293b" fill-opacity="0.6" stroke="#334155" />
+      <circle cx="18" cy="18" r="4.5" fill="#f472b6" />
+      <text x="32" y="15.5" class="sans" font-size="11.5" fill="#ffffff" font-weight="700">Aviatrix Multi-Cloud Network Associate</text>
+      <text x="32" y="29" class="mono" font-size="9.8" fill="#94a3b8">Multi-Cloud Networking Architecture · 2025</text>
     </g>
   </g>
 
@@ -113,10 +121,10 @@
       <text x="0" y="0" fill="#22c55e">$ ./status --verify-all</text>
       <text x="0" y="24" fill="#e2e8f0">[✓] Role: Full Stack Software Engineer</text>
       <text x="0" y="46" fill="#e2e8f0">[✓] Agency: Co-Founder @ Refora Tech</text>
-      <text x="0" y="68" fill="#38bdf8">[✓] Flagship: Traders Journal v1.0.8</text>
-      <text x="0" y="90" fill="#a855f7">[✓] Media PWA: Orbit Media Studio</text>
+      <text x="0" y="68" fill="#38bdf8">[✓] Degree: Java Institute (2023–Now)</text>
+      <text x="0" y="90" fill="#a855f7">[✓] Flagship: Traders Journal v1.0.8</text>
       <text x="0" y="112" fill="#34d399">[✓] Retail ERP: Java Swing POS Suite</text>
-      <text x="0" y="134" fill="#fbbf24">[✓] FinTech: Daybook Forex Journal</text>
+      <text x="0" y="134" fill="#fbbf24">[✓] Media PWA: Orbit Media Studio</text>
       <text x="0" y="156" fill="#f472b6">[✓] Vision AI: ScreenToChatGPT 240ms</text>
       <text x="0" y="186" fill="#22c55e">$ echo $PRIVACY_POLICY</text>
       <text x="0" y="208" fill="#94a3b8">"100% Local-First · Zero Telemetry"</text>

@@ -9,7 +9,7 @@
 
 <!-- Animated Typing Headline -->
 <a href="https://damsarachethiyaa-dev.github.io/github-portfolio/">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=21&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=760&lines=Full+Stack+Software+Engineer+%26+Systems+Architect+%E2%9A%A1;Creator+of+Traders+Journal+v1.0.8+(KING+Edition)+%F0%9F%91%91;Co-Founder+%26+Lead+Engineer+%40Refora-Technologies+%F0%9F%8F%A2;4x+Oracle+Cloud+%26+AI+Certified+Professional+%F0%9F%8F%85;100%25+Local-First+Privacy+%26+High-Speed+Desktop+Apps+%F0%9F%94%92" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=21&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=760&lines=Full+Stack+Software+Engineer+%26+Systems+Architect+%E2%9A%A1;Creator+of+Traders+Journal+v1.0.8+(KING+Edition)+%F0%9F%91%91;Co-Founder+%26+Lead+Engineer+%40Refora-Technologies+%F0%9F%8F%A2;5x+Oracle+%26+Aviatrix+Cloud+Certified+Professional+%F0%9F%8F%85;100%25+Local-First+Privacy+%26+High-Speed+Desktop+Apps+%F0%9F%94%92" alt="Typing SVG" />
 </a>
 
 <!-- Primary 2026 Quick-Action Navigation Bar -->
