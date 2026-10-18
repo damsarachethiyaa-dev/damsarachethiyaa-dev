@@ -1,0 +1,135 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#06080f" />
+      <stop offset="50%" stop-color="#0b1120" />
+      <stop offset="100%" stop-color="#080c17" />
+    </linearGradient>
+
+    <linearGradient id="titleGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ffffff" />
+      <stop offset="65%" stop-color="#f1f5f9" />
+      <stop offset="100%" stop-color="#94a3b8" />
+    </linearGradient>
+
+    <linearGradient id="accentGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8" />
+      <stop offset="50%" stop-color="#818cf8" />
+      <stop offset="100%" stop-color="#c084fc" />
+    </linearGradient>
+
+    <linearGradient id="cardGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#1e293b" stop-opacity="0.55" />
+      <stop offset="100%" stop-color="#0f172a" stop-opacity="0.75" />
+    </linearGradient>
+
+    <radialGradient id="orbCyan" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.22" />
+      <stop offset="100%" stop-color="#38bdf8" stop-opacity="0" />
+    </radialGradient>
+
+    <radialGradient id="orbViolet" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#8b5cf6" stop-opacity="0.2" />
+      <stop offset="100%" stop-color="#8b5cf6" stop-opacity="0" />
+    </radialGradient>
+
+    <radialGradient id="orbEmerald" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#10b981" stop-opacity="0.15" />
+      <stop offset="100%" stop-color="#10b981" stop-opacity="0" />
+    </radialGradient>
+
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M 48 0 L 0 0 0 48" fill="none" stroke="#ffffff" stroke-width="1" stroke-opacity="0.03" />
+    </pattern>
+
+    <style>
+      .font-sans { font-family: 'Space Grotesk', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; }
+      .font-mono { font-family: 'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+      @keyframes pulseDot {
+        0%, 100% { opacity: 1; r: 4.5px; }
+        50% { opacity: 0.45; r: 6px; }
+      }
+      @keyframes floatSlow {
+        0%, 100% { transform: translate(0px, 0px); }
+        50% { transform: translate(18px, -12px); }
+      }
+      .pulse { animation: pulseDot 2.4s infinite ease-in-out; }
+      .orb-anim { animation: floatSlow 10s infinite ease-in-out; }
+    </style>
+  </defs>
+
+  <!-- Outer Frame -->
+  <rect width="1200" height="420" rx="22" fill="url(#bgGrad)" stroke="#1e293b" stroke-width="2" />
+  <rect width="1200" height="420" rx="22" fill="url(#grid)" />
+
+  <!-- Ambient Glow Orbs -->
+  <circle class="orb-anim" cx="220" cy="90" r="240" fill="url(#orbCyan)" />
+  <circle class="orb-anim" cx="980" cy="120" r="260" fill="url(#orbViolet)" />
+  <circle cx="600" cy="360" r="220" fill="url(#orbEmerald)" />
+
+  <!-- Top Accent Line -->
+  <rect x="100" y="1" width="1000" height="2" fill="url(#accentGrad)" opacity="0.85" />
+
+  <!-- Top Window Telemetry Bar -->
+  <g transform="translate(36, 26)">
+    <circle cx="8" cy="8" r="5.5" fill="#ff5f56" />
+    <circle cx="26" cy="8" r="5.5" fill="#ffbd2e" />
+    <circle cx="44" cy="8" r="5.5" fill="#27c93f" />
+    <text x="68" y="12" class="font-mono" font-size="11.5" fill="#64748b" font-weight="500">chethiya.dev — 2026 Spatial Architecture Edition</text>
+  </g>
+
+  <!-- Right Status Pill -->
+  <g transform="translate(855, 18)">
+    <rect width="308" height="28" rx="14" fill="#0f172a" stroke="#1e293b" stroke-width="1.2" />
+    <circle class="pulse" cx="16" cy="14" r="4.5" fill="#22c55e" />
+    <text x="30" y="18" class="font-mono" font-size="11" fill="#e2e8f0" font-weight="600">AVAILABLE FOR PROJECTS &amp; ROLES · 2026</text>
+  </g>
+
+  <!-- Center Hero Identity -->
+  <g text-anchor="middle" transform="translate(600, 118)">
+    <text y="0" class="font-sans" font-size="52" font-weight="700" fill="url(#titleGrad)" letter-spacing="-1.2">CHETHIYA RATHNASEKARA</text>
+    <text y="38" class="font-sans" font-size="18.5" font-weight="600" fill="url(#accentGrad)" letter-spacing="1.5">FULL STACK SOFTWARE ENGINEER  ·  CO-FOUNDER @ REFORA TECHNOLOGIES</text>
+    <text y="68" class="font-sans" font-size="14.5" fill="#94a3b8" font-weight="400">Architecting high-performance Desktop Workstations, FinTech Trading Suites, Enterprise ERP &amp; Local-First AI Tools</text>
+  </g>
+
+  <!-- 4 Bento KPI Cards -->
+  <!-- Card 1 -->
+  <g transform="translate(48, 232)">
+    <rect width="260" height="142" rx="16" fill="url(#cardGrad)" stroke="#334155" stroke-width="1.2" />
+    <rect x="18" y="18" width="94" height="22" rx="11" fill="#0ea5e9" fill-opacity="0.14" stroke="#38bdf8" stroke-opacity="0.35" />
+    <text x="65" y="33" text-anchor="middle" class="font-mono" font-size="10" fill="#38bdf8" font-weight="700">PRODUCTION</text>
+    <text x="20" y="78" class="font-sans" font-size="36" fill="#ffffff" font-weight="700">6+ Systems</text>
+    <text x="20" y="103" class="font-sans" font-size="13" fill="#e2e8f0" font-weight="600">Shipped &amp; Maintained</text>
+    <text x="20" y="123" class="font-mono" font-size="11" fill="#64748b">Desktop · Web · FinTech · AI</text>
+  </g>
+
+  <!-- Card 2 -->
+  <g transform="translate(329, 232)">
+    <rect width="260" height="142" rx="16" fill="url(#cardGrad)" stroke="#334155" stroke-width="1.2" />
+    <rect x="18" y="18" width="108" height="22" rx="11" fill="#eab308" fill-opacity="0.14" stroke="#facc15" stroke-opacity="0.4" />
+    <text x="72" y="33" text-anchor="middle" class="font-mono" font-size="10" fill="#facc15" font-weight="700">KING EDITION</text>
+    <text x="20" y="78" class="font-sans" font-size="36" fill="#ffffff" font-weight="700">v1.0.8</text>
+    <text x="20" y="103" class="font-sans" font-size="13" fill="#e2e8f0" font-weight="600">Traders Journal Suite</text>
+    <text x="20" y="123" class="font-mono" font-size="11" fill="#64748b">Zero-Setup Bundled MT5 Sync</text>
+  </g>
+
+  <!-- Card 3 -->
+  <g transform="translate(610, 232)">
+    <rect width="260" height="142" rx="16" fill="url(#cardGrad)" stroke="#334155" stroke-width="1.2" />
+    <rect x="18" y="18" width="96" height="22" rx="11" fill="#a855f7" fill-opacity="0.15" stroke="#c084fc" stroke-opacity="0.4" />
+    <text x="66" y="33" text-anchor="middle" class="font-mono" font-size="10" fill="#c084fc" font-weight="700">CREDENTIALS</text>
+    <text x="20" y="78" class="font-sans" font-size="36" fill="#ffffff" font-weight="700">4× Oracle</text>
+    <text x="20" y="103" class="font-sans" font-size="13" fill="#e2e8f0" font-weight="600">Cloud &amp; AI Certified</text>
+    <text x="20" y="123" class="font-mono" font-size="11" fill="#64748b">APEX Pro · OCI AI · Java</text>
+  </g>
+
+  <!-- Card 4 -->
+  <g transform="translate(891, 232)">
+    <rect width="260" height="142" rx="16" fill="url(#cardGrad)" stroke="#334155" stroke-width="1.2" />
+    <rect x="18" y="18" width="110" height="22" rx="11" fill="#10b981" fill-opacity="0.15" stroke="#34d399" stroke-opacity="0.4" />
+    <text x="73" y="33" text-anchor="middle" class="font-mono" font-size="10" fill="#34d399" font-weight="700">ARCHITECTURE</text>
+    <text x="20" y="78" class="font-sans" font-size="36" fill="#ffffff" font-weight="700">100% Local</text>
+    <text x="20" y="103" class="font-sans" font-size="13" fill="#e2e8f0" font-weight="600">Privacy-First Engineering</text>
+    <text x="20" y="123" class="font-mono" font-size="11" fill="#64748b">Offline Native · Zero Telemetry</text>
+  </g>
+</svg>
