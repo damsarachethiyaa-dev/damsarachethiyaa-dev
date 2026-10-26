@@ -68,11 +68,3 @@ Software engineer building desktop, mobile, and web apps — focused on making t
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white)
-
----
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=damsarachethiyaa-dev&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=22c55e&text_color=c9d1d9&hide_rank=true" alt="Chethiya Rathnasekara's GitHub Stats" />
-</div>
