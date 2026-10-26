@@ -1,90 +1,57 @@
-<h1 align="center">👋 Hi, I'm Chethiya Rathnasekara</h1>
+<div align="center">
 
-<p align="center">
-  <b>💻 Full-Stack Software Engineering Undergraduate</b> &nbsp;·&nbsp; <b>🎯 Seeking Software Engineering Internship</b><br>
-  <sub>📍 Anuradhapura, Sri Lanka &nbsp;·&nbsp; 🎓 Java Institute for Advanced Technology (BEng/BSc, 2023 – Present)</sub>
-</p>
+# Chethiya Rathnasekara
 
-<p align="center">
-  <a href="https://damsarachethiyaa-dev.github.io/github-portfolio/Chethiya_Rathnasekara_CV_2026.pdf"><img src="https://img.shields.io/badge/📄_Curriculum_Vitae-PDF_Download-0284c7?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download CV PDF"></a>
-  <a href="https://damsarachethiyaa-dev.github.io/github-portfolio/cv.html"><img src="https://img.shields.io/badge/📑_Interactive_CV-Web_View-8b5cf6?style=for-the-badge" alt="Interactive CV"></a>
-  <a href="https://damsarachethiyaa-dev.github.io/github-portfolio/"><img src="https://img.shields.io/badge/🌐_Portfolio-0969da?style=for-the-badge" alt="Portfolio"></a>
-  <a href="https://linkedin.com/in/chethiya-rathnasekara"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:damsara.chethiyaa@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-</p>
+Software engineer building desktop, mobile, and web apps — focused on making tools that work fast and feel good.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Seeking%20Internship-2ea44f?style=flat-square&logo=github&logoColor=white" alt="Seeking Internship">
-  <img src="https://img.shields.io/badge/Oracle-Certified%20x4-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle certified">
-  <img src="https://img.shields.io/badge/Aviatrix-ACE%20Certified-7B1FA2?style=flat-square" alt="Aviatrix ACE">
-  <img src="https://img.shields.io/badge/Privacy--First-100%25%20Local-8957e5?style=flat-square&logo=shield&logoColor=white" alt="Privacy first">
-</p>
+<br>
+
+<a href="https://damsarachethiyaa-dev.github.io/github-portfolio/">
+  <img src="https://img.shields.io/badge/APPS_%26_PROJECTS_→-DAMSARACHETHIYAA--DEV.GITHUB.IO-21262d?style=for-the-badge&logoColor=white" alt="Apps & Projects" />
+</a>
+
+</div>
 
 ---
 
-## 🧑‍💻 About Me
+### Projects
 
-- 🎓 **Software Engineering Undergraduate (BEng/BSc)** at **Java Institute for Advanced Technology** (since 2023)
-- 💻 Builds **desktop, web and AI applications** in **Java** (Swing, JSP/Servlets), **React/Next.js**, **Node.js**, and **Python**
-- ⚡ Built and released **8+ personal projects**, including a real-time MetaTrader 5 analytics workstation (<100ms sync) and a retail Java POS system
-- 🏅 **Oracle APEX Cloud Developer Certified**, **3x Oracle OCI Foundations Certified**, and **Aviatrix Certified Engineer (ACE)**
-- 🎯 **Looking for a Software Engineering Internship**
+#### [Traders Journal](https://github.com/damsarachethiyaa-dev/Traders-Journal) — Privacy-first trading workstation for Windows
 
----
+Electron + Node.js desktop app. Uses custom MQL5 Expert Advisor syncing live MetaTrader 5 deals in &lt;100ms over local loopback. PnL calendar, 4-tab analytics, and per-user salted scrypt encryption — 100% offline with zero cloud telemetry.
 
-## 📄 Curriculum Vitae
+#### [Daybook](https://github.com/damsarachethiyaa-dev/Daybook) — Desktop trading journal & P&L calendar
 
-| Format | Link | Description |
-|---|---|---|
-| **Official PDF** | [📥 Download Chethiya_Rathnasekara_CV_2026.pdf](./Chethiya_Rathnasekara_CV_2026.pdf) · [GitHub Pages Direct Link](https://damsarachethiyaa-dev.github.io/github-portfolio/Chethiya_Rathnasekara_CV_2026.pdf) | ATS-friendly 1-page A4 format |
-| **Interactive Web CV** | [🌐 View cv.html](https://damsarachethiyaa-dev.github.io/github-portfolio/cv.html) | Responsive, printable online CV |
-| **Interactive Portfolio** | [🚀 damsarachethiyaa-dev.github.io/github-portfolio](https://damsarachethiyaa-dev.github.io/github-portfolio/) | Kinetic spatial portfolio |
+Electron + React 18 + TypeScript app. Color-coded monthly P&L calendar, sortable trade logs, and live ForexFactory economic calendar feed — 100% offline.
 
----
+#### [POS & Inventory Management System](https://github.com/damsarachethiyaa-dev/POS-Inventory-Management-System) — Desktop retail point of sale
 
-## 🚀 Featured Projects
+Java Swing + FlatLaf + MySQL. Role-based cashier and admin dashboard, JasperReports receipt and invoice generation, and barcode stock deduction under 3s checkout.
 
-| | Project | Tech Stack | Highlights & Links |
-|---|---|---|---|
-| 👑 | **Traders Journal (KING Edition v1.0.8)** | `Electron 41` `Node.js` `Python` `MQL5` `SQLite/JSON` `NSIS` | Privacy-first Windows trading analytics app with custom MQL5 Expert Advisor & localhost bridge syncing live MT5 deals in &lt;100ms.<br>[Interactive Showcase](https://damsarachethiyaa-dev.github.io/github-portfolio/traders-journal/) · [Source](https://github.com/damsarachethiyaa-dev/Traders-Journal) · [Latest Release](https://github.com/damsarachethiyaa-dev/Traders-Journal/releases/latest) |
-| 🛒 | **POS & Inventory Management System** | `Java` `Swing` `FlatLaf` `JasperReports` `MySQL 8` | Desktop retail POS with role-based access (Admin/Cashier) and JasperReports invoices; checkout and stock deduction in &lt;3s.<br>[Source](https://github.com/damsarachethiyaa-dev/POS-Inventory-Management-System) · [Latest Release](https://github.com/damsarachethiyaa-dev/POS-Inventory-Management-System/releases/latest) |
-| 📚 | **Online Bookstore Web Application** | `Java EE (JSP/Servlets)` `JDBC` `MySQL` `Bootstrap` `JavaScript` | Full-stack bookstore with authentication, catalog filtering, cart checkout on a normalized MySQL schema, plus RBAC admin dashboard. |
-| 🎬 | **Orbit Media Studio (Galaxy PWA)** | `Next.js 15` `TypeScript` `Node.js` `Tailwind CSS` `FFmpeg` `Docker` | Installable PWA with Node.js media engine across 11+ platforms and Dockerized FFmpeg pipeline for batch watermark removal.<br>[Source](https://github.com/damsarachethiyaa-dev/orbit-media-studio) |
-| 📸 | **ScreenToChatGPT & Daybook** | `Python` `PyWin32` `GPT-4o API` `Electron` `React 18` `TypeScript` | Global-hotkey capture sending screenshots to ChatGPT Desktop in 240ms, and Daybook trading journal with live ForexFactory feeds.<br>[Screen-Capture](https://github.com/damsarachethiyaa-dev/Screen-Capture) · [Daybook](https://github.com/damsarachethiyaa-dev/Daybook) |
-| ⚡ | **4K AI Video Upscaler** | `Python` `PyTorch (CUDA)` `Real-ESRGAN` `FFmpeg` `Next.js` | CUDA-accelerated Real-ESRGAN 4K 60 FPS super-resolution pipeline with multi-threaded FFmpeg raising batch throughput ~3x. |
-| 🏢 | **Enterprise Academy & Inventory System** | `Java Swing` `MigLayout` `MySQL` | Registration, scheduling and billing system with automated PDF invoices and reports. |
-| 🌐 | **Cloud-Backed Web App & Portfolio** | `React` `Tailwind CSS` `Supabase` `Netlify` | Supabase auth and real-time PostgreSQL synchronization, deployed via Netlify CI/CD. |
+#### [Orbit Media Studio](https://github.com/damsarachethiyaa-dev/orbit-media-studio) — Installable media workspace & PWA
+
+Next.js 15 + TypeScript + FFmpeg engine. Universal link recognition across 11+ platforms, frame-by-frame watermark studio, audio extraction, and Docker containerization.
+
+#### [ScreenToChatGPT](https://github.com/damsarachethiyaa-dev/Screen-Capture) — Desktop AI visual assistant
+
+Python + PyWin32 + OpenAI GPT-4o. Multi-monitor capture and direct injection into ChatGPT Desktop in 240ms via global hotkey (`Ctrl + Alt + G`).
 
 ---
 
-## 🛠️ Technical Skills
+### Stack
 
-- **Frontend:** React 18, Next.js 15, TypeScript, JavaScript, HTML5, CSS3, Tailwind CSS, Bootstrap, PWA
-- **Backend & Desktop:** Java, Swing, JSP/Servlets, JDBC, JasperReports, Node.js, Express.js, REST APIs, Python 3, Electron, MQL5
-- **Databases:** MySQL 8, PostgreSQL, Supabase, SQLite, Oracle DB, Oracle APEX
-- **DevOps & Cloud:** Git, Docker, GitHub Actions, Netlify, NSIS, PyInstaller, Oracle Cloud (OCI), Aviatrix
-- **AI, Media & Testing:** GPT-4o API, PyTorch, CUDA, Real-ESRGAN, FFmpeg, Postman, Unit & Integration Testing
-
----
-
-## 🏅 Certifications
-
-- 🔴 **Oracle APEX Cloud Certified Developer Professional** — Oracle (2025)
-- 🔴 **Oracle Cloud Infrastructure (OCI) Foundations Associate** — Oracle (2025)
-- 🔴 **Oracle Cloud Infrastructure (OCI) AI Foundations Associate** — Oracle (2025)
-- 🔴 **Oracle Cloud Infrastructure (OCI) Data Platform Foundations Associate** — Oracle (2025)
-- 🟣 **Aviatrix Certified Engineer (ACE), Multi-Cloud Network Associate** — Aviatrix (2025)
+| Category | Technologies |
+| :--- | :--- |
+| **Desktop** | Electron · Java Swing · FlatLaf · PyWin32 · NSIS |
+| **Frontend** | React 18 · Next.js 15 · TypeScript · Tailwind CSS |
+| **Backend** | Node.js · Express · Java (JSP/Servlets) · Python 3 |
+| **Data** | MySQL 8 · SQLite · Supabase (PostgreSQL) · JSON |
+| **Media & Tools** | MetaTrader 5 (MQL5) · FFmpeg · Docker · Git |
 
 ---
 
-## 🏆 Hackathons
+<br>
 
-- ⚡ **24-Hour Software Application Development Hackathon** (2025)
-- 🤖 **Robotics Hackathon**
-- 📡 **IoT Hackathon**
-
----
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Made%20with-❤️%20in%20Sri%20Lanka-ff69b4?style=flat-square" alt="Made in Sri Lanka">
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=damsarachethiyaa-dev&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=22c55e&text_color=c9d1d9" alt="Chethiya Rathnasekara's GitHub Stats" />
+</div>
