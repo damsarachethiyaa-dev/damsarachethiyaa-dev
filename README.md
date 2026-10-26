@@ -7,7 +7,7 @@ Software engineer building desktop, mobile, and web apps — focused on making t
 <br>
 
 <a href="https://damsarachethiyaa-dev.github.io/github-portfolio/">
-  <img src="https://img.shields.io/badge/APPS_%26_PROJECTS_→-DAMSARACHETHIYAA--DEV.GITHUB.IO-21262d?style=for-the-badge&logoColor=white" alt="Apps & Projects" />
+  <img src="https://img.shields.io/badge/APPS_%26_PROJECTS_→-DAMSARACHETHIYAA--DEV.GITHUB.IO-7c3aed?style=for-the-badge&logoColor=white&labelColor=2563eb" alt="Apps & Projects" />
 </a>
 
 </div>
