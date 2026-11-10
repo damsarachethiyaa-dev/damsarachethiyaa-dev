@@ -2,13 +2,21 @@
 
 # Chethiya Rathnasekara
 
-Software engineer building desktop, mobile, and web apps — focused on making tools that work fast and feel good.
+**Software Engineer & AI Engineer** · Sri Lanka
+
+Building high-performance desktop platforms, deep-learning pipelines and full-stack systems — tools that work fast and feel good.
 
 <br>
 
 <a href="https://damsarachethiyaa-dev.github.io/github-portfolio/">
-  <img src="https://img.shields.io/badge/APPS_%26_PROJECTS_→-DAMSARACHETHIYAA--DEV.GITHUB.IO-7c3aed?style=for-the-badge&logoColor=white&labelColor=2563eb" alt="Apps & Projects" />
+  <img src="https://img.shields.io/badge/PORTFOLIO_→-DAMSARACHETHIYAA--DEV.GITHUB.IO-7c3aed?style=for-the-badge&logoColor=white&labelColor=2563eb" alt="Portfolio" />
 </a>
+&nbsp;
+<a href="https://www.credly.com/users/chethiya-rathnasekara">
+  <img src="https://img.shields.io/badge/CREDLY-VERIFIED_BADGES-ff6b00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly" />
+</a>
+
+<sub>Available for software & AI engineering roles · 2026</sub>
 
 </div>
 
@@ -19,16 +27,16 @@ Software engineer building desktop, mobile, and web apps — focused on making t
 <table>
   <tr>
     <td width="80" align="center" valign="middle">
-      <a href="https://github.com/damsarachethiyaa-dev/Traders-Journal">
+      <a href="https://damsarachethiyaa-dev.github.io/github-portfolio/traders-journal/">
         <img src="https://raw.githubusercontent.com/damsarachethiyaa-dev/damsarachethiyaa-dev/main/assets/traders-journal-icon.png" width="68" height="68" alt="Traders Journal Logo" />
       </a>
     </td>
     <td>
-      <a href="https://github.com/damsarachethiyaa-dev/Traders-Journal"><strong>Traders Journal</strong></a> — <em>Privacy-first trading workstation for Windows</em>
+      <a href="https://damsarachethiyaa-dev.github.io/github-portfolio/traders-journal/"><strong>Traders Journal</strong></a> — <em>Privacy-first trading workstation for Windows</em>
       <br><br>
-      Electron + Node.js desktop app syncing live MetaTrader 5 deals in &lt;100ms via custom MQL5 Expert Advisor over local loopback. Features a PnL calendar, 4-tab advanced analytics, and per-user salted scrypt encryption — 100% offline with zero cloud telemetry.
+      Electron + Node.js desktop app syncing live MetaTrader 5 deals in &lt;100ms via a custom MQL5 Expert Advisor over local loopback. Features a PnL calendar, 4-tab advanced analytics, market sessions and per-user salted scrypt encryption — 100% offline with zero cloud telemetry.
       <br><br>
-      <a href="https://github.com/damsarachethiyaa-dev/Traders-Journal/releases/latest"><img src="https://img.shields.io/badge/Download_Installer-.EXE_(v1.0.9)-00C853?style=flat-square&logo=windows&logoColor=white" alt="Download EXE" /></a>
+      <a href="https://github.com/damsarachethiyaa-dev/Traders-Journal/releases/latest"><img src="https://img.shields.io/badge/Download_Installer-.EXE_(v1.1.0)-00C853?style=flat-square&logo=windows&logoColor=white" alt="Download EXE" /></a>
       &nbsp;
       <a href="https://damsarachethiyaa-dev.github.io/github-portfolio/traders-journal/"><img src="https://img.shields.io/badge/Live_Showcase-Web_Demo-8b5cf6?style=flat-square&logo=safari&logoColor=white" alt="Live Demo" /></a>
       &nbsp;
@@ -39,6 +47,17 @@ Software engineer building desktop, mobile, and web apps — focused on making t
 
 ---
 
+### Selected Work
+
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [**Orbit Media Studio**](https://github.com/damsarachethiyaa-dev/orbit-media-studio) | Full-stack PWA for media processing — video/audio downloader, batch queue and watermark studio | Next.js 15, TypeScript, FFmpeg, Docker |
+| [**POS & Inventory**](https://github.com/damsarachethiyaa-dev/POS-Inventory-Management-System) | Java desktop suite for checkout, stock and reporting | Java Swing, FlatLaf, MySQL, JasperReports |
+| [**ScreenToChatGPT**](https://github.com/damsarachethiyaa-dev/Screen-Capture) | Multi-monitor screen capture with GPT-4o visual analysis | Python, PyWin32, GPT-4o API, Electron |
+| **4K AI Upscaler** | CUDA-accelerated super-resolution pipeline (experimental) | Python, PyTorch, CUDA, Real-ESRGAN, FFmpeg |
+
+---
+
 ### Tech Stack & Skills
 
 #### Desktop & Systems
@@ -46,6 +65,12 @@ Software engineer building desktop, mobile, and web apps — focused on making t
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+#### AI & Computer Vision
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![OpenAI](https://img.shields.io/badge/GPT--4o_API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white)
 
 #### Frontend & UI
 ![React](https://img.shields.io/badge/React_18-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -67,4 +92,16 @@ Software engineer building desktop, mobile, and web apps — focused on making t
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white)
+
+---
+
+### Credentials
+
+Verified on [Credly](https://www.credly.com/users/chethiya-rathnasekara):
+
+- **Google AI Professional Certificate** (Coursera) — AI Fundamentals, Brainstorming & Planning, Research & Insights, Writing & Communicating, Content Creation, Data Analysis, App Building and App Deployment
+- **Aviatrix Certified Engineer — Multicloud Network Associate** (valid to Oct 2028)
+
+<div align="center">
+<sub>Based in Sri Lanka · <a href="https://damsarachethiyaa-dev.github.io/github-portfolio/cv.html">Web CV</a> · <a href="mailto:damsara.chethiyaa@gmail.com">Email</a></sub>
+</div>
