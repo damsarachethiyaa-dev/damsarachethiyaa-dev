@@ -51,7 +51,9 @@ Building high-performance desktop platforms, deep-learning pipelines and full-st
 
 | Project | What it is | Stack |
 | --- | --- | --- |
-| [**Orbit Media Studio**](https://github.com/damsarachethiyaa-dev/orbit-media-studio) | Full-stack PWA for media processing — video/audio downloader, batch queue and watermark studio | Next.js 15, TypeScript, FFmpeg, Docker |
+| [**Orbit**](https://damsarachethiyaa-dev.github.io/orbit/) · [download](https://github.com/damsarachethiyaa-dev/orbit/releases) | Paste-a-link video & audio downloader for Windows and Android — 1000+ sites, up to 4K, MP3, auto-update | Python, Flask, pywebview, Kotlin, yt-dlp, FFmpeg |
+| [**Lumi Keys**](https://damsarachethiyaa-dev.github.io/lumi-keys/) · [download](https://github.com/damsarachethiyaa-dev/lumi-keys/releases/latest) | AMOLED Android AI keyboard — Gboard-style typing, Sinhala & Singlish, smart clipboard, AI with your own key | Kotlin, Android IME, three.js |
+| **Orbit Media Studio** *(private)* | Full-stack PWA for media processing — video/audio downloader, batch queue and watermark studio | Next.js 15, TypeScript, FFmpeg, Docker |
 | [**POS & Inventory**](https://github.com/damsarachethiyaa-dev/POS-Inventory-Management-System) | Java desktop suite for checkout, stock and reporting | Java Swing, FlatLaf, MySQL, JasperReports |
 | [**ScreenToChatGPT**](https://github.com/damsarachethiyaa-dev/Screen-Capture) | Multi-monitor screen capture with GPT-4o visual analysis | Python, PyWin32, GPT-4o API, Electron |
 | **4K AI Upscaler** | CUDA-accelerated super-resolution pipeline (experimental) | Python, PyTorch, CUDA, Real-ESRGAN, FFmpeg |
