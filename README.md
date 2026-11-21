@@ -4,7 +4,7 @@
 
 **Software Engineer & AI Engineer** · Sri Lanka
 
-Building high-performance desktop platforms, deep-learning pipelines and full-stack systems — tools that work fast and feel good.
+Building high-performance desktop platforms, native Android apps, enterprise Java APIs, and full-stack AI systems — tools that work fast and feel good.
 
 <br>
 
@@ -12,11 +12,15 @@ Building high-performance desktop platforms, deep-learning pipelines and full-st
   <img src="https://img.shields.io/badge/PORTFOLIO_→-DAMSARACHETHIYAA--DEV.GITHUB.IO-7c3aed?style=for-the-badge&logoColor=white&labelColor=2563eb" alt="Portfolio" />
 </a>
 &nbsp;
+<a href="https://www.linkedin.com/in/chethiya-rathnasekara-40b0913b2/">
+  <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;
 <a href="https://www.credly.com/users/chethiya-rathnasekara">
   <img src="https://img.shields.io/badge/CREDLY-VERIFIED_BADGES-ff6b00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly" />
 </a>
 
-<sub>Available for software & AI engineering roles · 2026</sub>
+<sub>Available for software, mobile & AI engineering roles · Sri Lanka & Remote · 2026</sub>
 
 </div>
 
@@ -51,10 +55,12 @@ Building high-performance desktop platforms, deep-learning pipelines and full-st
 
 | Project | What it is | Stack |
 | --- | --- | --- |
+| [**POS & Inventory REST API**](https://github.com/damsarachethiyaa-dev/pos-inventory-api) | Enterprise Spring Boot 3 backend with JWT RBAC, pessimistic-locked transactional checkout, Flyway migrations, OpenAPI & JUnit 5 tests | Java 17, Spring Boot 3, PostgreSQL, Docker, JUnit 5 |
 | [**Orbit**](https://damsarachethiyaa-dev.github.io/orbit/) · [download](https://github.com/damsarachethiyaa-dev/orbit/releases) | Paste-a-link video & audio downloader for Windows and Android — 1000+ sites, up to 4K, MP3, auto-update | Python, Flask, pywebview, Kotlin, yt-dlp, FFmpeg |
-| [**Lumi Keys**](https://damsarachethiyaa-dev.github.io/lumi-keys/) · [download](https://github.com/damsarachethiyaa-dev/lumi-keys/releases/latest) | AMOLED Android AI keyboard — Gboard-style typing, Sinhala & Singlish, smart clipboard, AI with your own key | Kotlin, Android IME, three.js |
+| [**Lumi Keys**](https://damsarachethiyaa-dev.github.io/lumi-keys/) · [download](https://github.com/damsarachethiyaa-dev/lumi-keys/releases/latest) | AMOLED Android AI keyboard — Gboard-style typing, Sinhala & Singlish, smart clipboard, AI with your own key (576 KB APK) | Kotlin, Android IME, three.js |
+| [**Daybook**](https://github.com/damsarachethiyaa-dev/Daybook) | Privacy-first desktop trading journal with ForexFactory economic calendar feed & streak tracking | TypeScript, React 18, Electron, Tailwind CSS |
+| [**POS & Inventory Desktop**](https://github.com/damsarachethiyaa-dev/POS-Inventory-Management-System) | Java desktop suite for sub-3s barcode checkout, stock control and JasperReports reporting | Java Swing, FlatLaf, MySQL, JasperReports |
 | **Orbit Media Studio** *(private)* | Full-stack PWA for media processing — video/audio downloader, batch queue and watermark studio | Next.js 15, TypeScript, FFmpeg, Docker |
-| [**POS & Inventory**](https://github.com/damsarachethiyaa-dev/POS-Inventory-Management-System) | Java desktop suite for checkout, stock and reporting | Java Swing, FlatLaf, MySQL, JasperReports |
 | [**ScreenToChatGPT**](https://github.com/damsarachethiyaa-dev/Screen-Capture) | Multi-monitor screen capture with GPT-4o visual analysis | Python, PyWin32, GPT-4o API, Electron |
 | **4K AI Upscaler** | CUDA-accelerated super-resolution pipeline (experimental) | Python, PyTorch, CUDA, Real-ESRGAN, FFmpeg |
 
@@ -62,17 +68,15 @@ Building high-performance desktop platforms, deep-learning pipelines and full-st
 
 ### Tech Stack & Skills
 
-#### Desktop & Systems
+#### Backend, Mobile & Desktop
+![Java 17](https://img.shields.io/badge/Java_17-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=black)
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-#### AI & Computer Vision
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![OpenAI](https://img.shields.io/badge/GPT--4o_API-412991?style=for-the-badge&logo=openai&logoColor=white)
-![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 
 #### Frontend & UI
 ![React](https://img.shields.io/badge/React_18-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -81,29 +85,33 @@ Building high-performance desktop platforms, deep-learning pipelines and full-st
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-#### Backend & Databases
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL_8-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+#### AI & Computer Vision
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![OpenAI](https://img.shields.io/badge/GPT--4o_API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white)
+
+#### Databases, Cloud & Tools
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL_8-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle APEX](https://img.shields.io/badge/Oracle_APEX-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-#### Tools & Trading
-![MetaTrader 5](https://img.shields.io/badge/MetaTrader_5-00A651?style=for-the-badge&logo=tradingview&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![JUnit 5](https://img.shields.io/badge/JUnit_5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![MetaTrader 5](https://img.shields.io/badge/MetaTrader_5-00A651?style=for-the-badge&logo=tradingview&logoColor=white)
 
 ---
 
 ### Credentials
 
-Verified on [Credly](https://www.credly.com/users/chethiya-rathnasekara):
+14 verified credentials on [Credly](https://www.credly.com/users/chethiya-rathnasekara) & [Portfolio](https://damsarachethiyaa-dev.github.io/github-portfolio/certificates/):
 
-- **Google AI Professional Certificate** (Coursera) — AI Fundamentals, Brainstorming & Planning, Research & Insights, Writing & Communicating, Content Creation, Data Analysis, App Building and App Deployment
+- **Google AI Professional Certificate** (Coursera) — 8 specialist courses covering AI Fundamentals, App Building, App Deployment, Data Analysis, Research & Insights, Content Creation, Brainstorming & Planning, and Writing
+- **Oracle APEX Cloud Certified Developer Professional** (Oracle University, 2025)
+- **Oracle Cloud Infrastructure (OCI) Associate Suite** — OCI Foundations, OCI AI Foundations & OCI Data Platform Foundations (2025)
 - **Aviatrix Certified Engineer — Multicloud Network Associate** (valid to Oct 2028)
 
 <div align="center">
-<sub>Based in Sri Lanka · <a href="https://damsarachethiyaa-dev.github.io/github-portfolio/cv.html">Web CV</a> · <a href="mailto:damsara.chethiyaa@gmail.com">Email</a></sub>
+<sub>Based in Sri Lanka · <a href="https://damsarachethiyaa-dev.github.io/github-portfolio/cv.html">Web CV</a> · <a href="https://www.linkedin.com/in/chethiya-rathnasekara-40b0913b2/">LinkedIn</a> · <a href="mailto:damsara.chethiyaa@gmail.com">Email</a></sub>
 </div>
